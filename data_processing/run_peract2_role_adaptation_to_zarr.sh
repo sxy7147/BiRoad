@@ -15,8 +15,6 @@ im_size=128
 tasks=(
     bimanual_handover_item_easy_random:${original_count}
     bimanual_handover_item_easy_symmetric_random:${role_swapped_count}
-    bimanual_open_bottle_random:${original_count}
-    bimanual_open_bottle_symmetric_random:${role_swapped_count}
     bimanual_pick_laptop_random:${original_count}
     bimanual_pick_laptop_symmetric_random:${role_swapped_count}
     bimanual_pick_plate_random:${original_count}

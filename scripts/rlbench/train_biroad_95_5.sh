@@ -51,8 +51,6 @@ tasks=(
 all_tasks=(
     bimanual_handover_item_easy_random
     bimanual_handover_item_easy_symmetric_random
-    bimanual_open_bottle_random
-    bimanual_open_bottle_symmetric_random
     bimanual_pick_laptop_random
     bimanual_pick_laptop_symmetric_random
     bimanual_pick_plate_random
