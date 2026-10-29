@@ -1,0 +1,12 @@
+# Python bytecode caches
+__pycache__/
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Local editor workspace
+/3d_flowmatch_actor.code-workspace
+
+# Internal documentation and review materials
+/docs/
